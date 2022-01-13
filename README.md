@@ -38,3 +38,12 @@
 <strong>Image Denoising</strong>
 
 <img src = "https://user-images.githubusercontent.com/43280278/149260445-02e4b434-d7f9-465c-80f9-f94cec557efb.png">
+
+<strong>Image Deblurring</strong>
+
+<table>
+  <tr>
+    <td> <img src = "https://user-images.githubusercontent.com/43280278/149260722-ad05726b-4700-4d52-b768-b16306592c9a.png" width="400"> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/43280278/149260760-8483ba1d-62a3-432a-abc9-99588777cf6f.png" width="400"> </td>
+  </tr>
+</table>
