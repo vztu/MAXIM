@@ -76,7 +76,7 @@
 
 <strong>Image Enhancement</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149262540-77d16592-9305-4fd7-80c6-b9d30000cc29.png" width="500">
+<img src = "https://user-images.githubusercontent.com/43280278/149262540-77d16592-9305-4fd7-80c6-b9d30000cc29.png" width="300">
 
 ## Citation
 
