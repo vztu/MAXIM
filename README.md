@@ -32,3 +32,9 @@
 
 ![image](https://user-images.githubusercontent.com/43280278/149260149-5376b022-98db-45fd-9148-f865a43c8342.png)
 ![image](https://user-images.githubusercontent.com/43280278/149260185-e7441080-3c04-4338-bf24-4263b1a9193f.png)
+
+## Results
+
+<strong>Image Denoising</strong>
+
+<img src = "https://user-images.githubusercontent.com/43280278/149260445-02e4b434-d7f9-465c-80f9-f94cec557efb.png">
