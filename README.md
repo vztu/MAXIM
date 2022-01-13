@@ -65,3 +65,11 @@
   </tr>
 </table>
 
+<strong>Image Dehazing</strong>
+
+<img src = "https://user-images.githubusercontent.com/43280278/149261359-18494679-dc24-4d7f-afc6-b4c4c7cb5546.png">
+
+<strong>Image Enhancement</strong>
+
+<img src = "https://user-images.githubusercontent.com/43280278/149261416-67b7bab3-d1e6-4f45-84fe-dd08d19c78df.png">
+
