@@ -60,7 +60,7 @@
 <table>
   <tr>
     <td> <img src = "https://user-images.githubusercontent.com/43280278/149261908-8bce72cf-b343-4bf8-8462-8be363616cfa.png" width="700"> </td>
-    <td> <p align="top"> <img src = "https://user-images.githubusercontent.com/43280278/149262066-7b93538a-2ccc-4ea0-9187-ef1b54734392.png" width="300"> </td>
+    <td> <p align="top"> <img src = "https://user-images.githubusercontent.com/43280278/149262066-7b93538a-2ccc-4ea0-9187-ef1b54734392.png" width="400"> </td>
   </tr>
   <tr>
     <td><p align="center"><b>Rain streak</b></p></td>
@@ -76,7 +76,7 @@
 
 <strong>Image Enhancement</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149262540-77d16592-9305-4fd7-80c6-b9d30000cc29.png" width="400">
+<img src = "https://user-images.githubusercontent.com/43280278/149262540-77d16592-9305-4fd7-80c6-b9d30000cc29.png" width="500">
 
 ## Citation
 
