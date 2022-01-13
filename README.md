@@ -30,16 +30,16 @@
 
 ## Architecture
 
-![image](https://user-images.githubusercontent.com/43280278/149260149-5376b022-98db-45fd-9148-f865a43c8342.png)
-![image](https://user-images.githubusercontent.com/43280278/149260185-e7441080-3c04-4338-bf24-4263b1a9193f.png)
+<img src = "https://user-images.githubusercontent.com/43280278/149262326-d170018c-09a9-4240-bb0a-d992a1677c9d.png" width="1000">
+
+<img src = "https://user-images.githubusercontent.com/43280278/149262407-354ad120-54c2-4407-b2c9-31502f31ca12.png" width="1000">
+
 
 ## Results
 
 <strong>Image Denoising</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149262178-b0ebc94f-292b-4897-b371-0dc61d5ffd4c.png" width="400">
-
-
+<img src = "https://user-images.githubusercontent.com/43280278/149262475-a73668f2-9fe1-4374-8ed3-4831acca8052.png" width="400">
 
 <strong>Image Deblurring</strong>
 
@@ -76,7 +76,7 @@
 
 <strong>Image Enhancement</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149261416-67b7bab3-d1e6-4f45-84fe-dd08d19c78df.png" width="400">
+<img src = "https://user-images.githubusercontent.com/43280278/149262540-77d16592-9305-4fd7-80c6-b9d30000cc29.png" width="400">
 
 ## Citation
 
