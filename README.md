@@ -37,14 +37,16 @@
 
 <strong>Image Denoising</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149260445-02e4b434-d7f9-465c-80f9-f94cec557efb.png">
+<img src = "https://user-images.githubusercontent.com/43280278/149262178-b0ebc94f-292b-4897-b371-0dc61d5ffd4c.png" width="400">
+
+
 
 <strong>Image Deblurring</strong>
 
 <table>
   <tr>
-    <td> <img src = "https://user-images.githubusercontent.com/43280278/149260722-ad05726b-4700-4d52-b768-b16306592c9a.png" width="400"> </td>
-    <td> <img src = "https://user-images.githubusercontent.com/43280278/149260760-8483ba1d-62a3-432a-abc9-99588777cf6f.png" width="400"> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/43280278/149261823-b77e9513-b3b5-4caf-a0eb-67bf18c2f681.png" width="500"> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/43280278/149261858-24664c33-dc8a-47c3-b84d-ba64b1c05937.png" width="500"> </td>
   </tr>
   <tr>
     <td><p align="center"><b>Synthetic blur</b></p></td>
@@ -52,12 +54,13 @@
   </tr>
 </table>
 
+
 <strong>Image Deraining</strong>
 
 <table>
   <tr>
-    <td> <img src = "https://user-images.githubusercontent.com/43280278/149261024-ae9c1182-d147-43cb-a91a-734150b5b151.png" width="500"> </td>
-    <td> <p align="top"> <img src = "https://user-images.githubusercontent.com/43280278/149261057-8264949b-c560-41df-8a3f-5d5f88b03df5.png" width="300"> </td>
+    <td> <img src = "https://user-images.githubusercontent.com/43280278/149261908-8bce72cf-b343-4bf8-8462-8be363616cfa.png" width="700"> </td>
+    <td> <p align="top"> <img src = "https://user-images.githubusercontent.com/43280278/149262066-7b93538a-2ccc-4ea0-9187-ef1b54734392.png" width="300"> </td>
   </tr>
   <tr>
     <td><p align="center"><b>Rain streak</b></p></td>
@@ -65,13 +68,15 @@
   </tr>
 </table>
 
+
 <strong>Image Dehazing</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149261359-18494679-dc24-4d7f-afc6-b4c4c7cb5546.png">
+<img src = "https://user-images.githubusercontent.com/43280278/149261947-22954827-ce62-44e8-974a-0aa8d94a4bd9.png"  width="300">
+
 
 <strong>Image Enhancement</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149261416-67b7bab3-d1e6-4f45-84fe-dd08d19c78df.png">
+<img src = "https://user-images.githubusercontent.com/43280278/149261416-67b7bab3-d1e6-4f45-84fe-dd08d19c78df.png" width="400">
 
 ## Citation
 
