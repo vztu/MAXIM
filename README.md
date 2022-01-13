@@ -46,4 +46,22 @@
     <td> <img src = "https://user-images.githubusercontent.com/43280278/149260722-ad05726b-4700-4d52-b768-b16306592c9a.png" width="400"> </td>
     <td> <img src = "https://user-images.githubusercontent.com/43280278/149260760-8483ba1d-62a3-432a-abc9-99588777cf6f.png" width="400"> </td>
   </tr>
+  <tr>
+    <td><p align="center"><b>Synthetic blur</b></p></td>
+    <td><p align="center"><b>Realistic blur</b></p></td>
+  </tr>
 </table>
+
+<strong>Image Deraining</strong>
+
+<table>
+  <tr>
+    <td> <img src = "https://user-images.githubusercontent.com/43280278/149261024-ae9c1182-d147-43cb-a91a-734150b5b151.png" width="500"> </td>
+    <td> <p align="top"> <img src = "https://user-images.githubusercontent.com/43280278/149261057-8264949b-c560-41df-8a3f-5d5f88b03df5.png" width="300"> </td>
+  </tr>
+  <tr>
+    <td><p align="center"><b>Rain streak</b></p></td>
+    <td><p align="center"><b>Rain drop</b></p></td>
+  </tr>
+</table>
+
