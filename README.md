@@ -71,7 +71,7 @@
 
 <strong>Image Dehazing</strong>
 
-<img src = "https://user-images.githubusercontent.com/43280278/149261947-22954827-ce62-44e8-974a-0aa8d94a4bd9.png"  width="300">
+<img src = "https://user-images.githubusercontent.com/43280278/149261947-22954827-ce62-44e8-974a-0aa8d94a4bd9.png"  width="250">
 
 
 <strong>Image Enhancement</strong>
